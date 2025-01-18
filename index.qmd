@@ -1,8 +1,7 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "Data Science in Canadian Healthcare: Where It Is and Where It's Going"
+author: "Stephanie Ta"
 date: "2025-01-17"
-categories: [news, code, analysis]
-image: "image.jpg"
+categories: [news, data science, healthcare]
 ---
 
