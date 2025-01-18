@@ -4,13 +4,6 @@ project:
 
 website:
   title: "Data Science in Canadian Healthcare: Where It Is and Where It's Going"
-  navbar:
-    right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
 format:
   html:
     theme: cosmo
