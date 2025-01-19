@@ -32,11 +32,20 @@ This allows for the AI scribe to be used during patient-physician interactions/a
 As you may imagine, the use of AI scribes can reduce the administrative burden on family physicians can allow them to focus more of their time on patient care, which can have downstream benefits.
 For example, family physicians may have time to see more patients, which can alleviate emergency department workloads and reduce wait times. 
 Notably, the Canadian Institute for Health Information found that 1 in 7 visits to Canadian emergency departments between April 2023 and March 2024 could have been addressed with primary care.
+Additionally, they can reduce family physician burnout, and improve job satisfaction, which can lead to better physician retention rates.
 
-## 
+## Limitations
+
 
 ## Conclusion
+AI scribes offer a promising way to reduce administrative workloads for Canadian healthcare workers, particularly family physicians.
+By alleviating these tasks, AI scribes could help reduce burnout and improve job satisfaction, leading to better retention rates among family doctors.
+Additionally, with more time available for patient care, family physicians could see more patients, helping to prevent unnecessary emergency department visits and reducing emergency room wait times.
 
+However, the successful integration of AI scribes requires addressing several challenges, including financial constraints, data privacy concerns, and the need for user adoption among healthcare professionals.
+
+With the widespread adoption of electronic health records across Canada, AI scribes present an exciting opportunity for further innovation in data science.
+By facilitating the generation of such rich data, these systems create a valuable resource that can drive the development of new data science applications, further optimizing healthcare systems and enhancing patient care.
 
 ## References
 Canadian Medical Association. (n.d.). Digital Library. Retrieved January 16, 2025, from https://digitallibrary.cma.ca/link/digitallibrary17
