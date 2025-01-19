@@ -60,7 +60,7 @@ Additionally, with more time available for patient care, family physicians could
 However, the successful integration of AI scribes requires addressing several challenges, including financial constraints, data privacy concerns, and the need for user adoption among healthcare professionals.
 
 With the widespread adoption of electronic health records across Canada, AI scribes present an exciting opportunity for further innovation in data science.
-By facilitating the generation of such rich data, these systems create a valuable resource that can drive the development of new data science applications, further optimizing healthcare systems and enhancing patient care.
+By facilitating the generation of such rich data, these systems create a valuable resource that can drive the development of new data science applications for further optimizing healthcare systems and enhancing patient care.
 
 ## References
 Canadian Medical Association. (n.d.). Digital Library. Retrieved January 16, 2025, from https://digitallibrary.cma.ca/link/digitallibrary17
