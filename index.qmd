@@ -20,7 +20,7 @@ This is especially concerning because family physicians are the backbone of prim
 
 In recent years, artificial intelligence (AI) technology, in the form of AI scribes, has been developing and has the potential to alleviate the administrative workload of family physicians.
 
-## So What Are AI Scribes and Their Benefits?
+## What Are AI Scribes and Their Benefits?
 You may be familiar with using speech-to-text technology, AI scribes are similar!
 
 Some physicians tend to dictate their medical notes to have them typed up later.
